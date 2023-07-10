@@ -1,0 +1,40 @@
+﻿@using TicketApplication.Models.Models;
+@model IEnumerable<MovieShowing>
+
+<div class="row pb-3">
+
+    @foreach (var obj in Model)
+    {
+        <div class="col-4" style="height:fit-content">
+            <div class="row">
+                <div class="col-12">
+                    <div class="card border-0 p-3 shadow border-top border-5 rounded">
+                        <img src="@obj.Movie.ImageUrl" class="card-img-top rounded"/>
+                        <div class="card-body pb-0">
+                            <div class="pl-1">
+                                <p class="card-title h5 text-dark opacity-75 text-center text-uppercase">@obj.Movie.Name</p>
+                                <p class="card-title h5 text-warning text-center">@obj.CinemaHall.Name</p>
+                            </div>
+                            <div class="pl-1">
+                                <p class="card-title h5 text-dark opacity-75 text-center text-uppercase">@obj.Movie.TicketPrice$</p>
+                                <p class="card-title h5 text-black text-center">Seats left: @obj.AvailableSeats</p>
+                            </div>
+                        </div>
+                        <div>
+                            <a asp-controller="Home" asp-action="Details" asp-route-id="@obj.Id" class="btn btn-success bg-gradient border-0 form-control">
+                                Details
+                            </a>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <a asp-controller="ShoppingCart" asp-action="AddToCart" asp-route-id="@obj.Id" class="btn btn-success bg-gradient border-0 form-control">
+                                    Add to cart
+                                </a>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    }
+</div>

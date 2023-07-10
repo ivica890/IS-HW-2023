@@ -1,0 +1,45 @@
+﻿@using TicketApplication.Models.Models;
+@model MovieShowing
+
+
+<form method="post" enctype="multipart/form-data">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2>Add a movie showing</h2>
+            <hr />
+        </div>
+        <div asp-validation-summary="All"></div>
+        <div class="mb-3 row">
+            <label>Movie</label>
+            <select asp-for="MovieId" asp-items="ViewBag.movieList" class="form-select">
+                <option disabled selected>Select movie</option>
+            </select>
+        </div>
+        <div class="mb-3 row">
+            <label>Cinema hall</label>
+            <select asp-for="CinemaHallId" asp-items="ViewBag.hallsList" class="form-select">
+                <option disabled selected>Select cinema hall</option>
+            </select>
+        </div>
+
+        <div class="mb-3 row">
+            <input asp-for="AvailableSeats" hidden value=0/>
+        </div>
+        <div class="mb-3 row">
+            <label>Start time</label>
+            <input asp-for="StartTime" class="form-control" />
+            <span asp-validation-for="StartTime" class="text-danger"></span>
+        </div>
+        <div class="row">
+            <div class="col-6 col-md-3">
+                <button type="submit" class="btn btn-success form-control">Create</button>
+            </div>
+            <div class="col-6 col-md-3">
+                <a asp-controller="MovieShowing" asp-action="Index" class="btn btn-outline-secondary form-control">
+                    Back to movie showings list
+                </a>
+            </div>
+        </div>
+    </div>
+
+</form>

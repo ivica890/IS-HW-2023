@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TicketApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TicketApplication.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\images\\movie\\201e0095-d4df-4ef8-8589-6018a95073f4.jpeg",
+      "PackagePath": "staticwebassets\\images\\movie\\201e0095-d4df-4ef8-8589-6018a95073f4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\images\\movie\\32727a68-ccf6-40e4-b9d7-b99618e673af.jpeg",
+      "PackagePath": "staticwebassets\\images\\movie\\32727a68-ccf6-40e4-b9d7-b99618e673af.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\images\\movie\\37cdcfd6-702b-4d15-a4f4-e4f6231f5a20.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\37cdcfd6-702b-4d15-a4f4-e4f6231f5a20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\images\\movie\\4a2051c6-8550-4b6c-af63-a72ce9193db3.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\4a2051c6-8550-4b6c-af63-a72ce9193db3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\images\\movie\\816169f7-4720-4bc5-85d5-7a0074b179cf.jpeg",
+      "PackagePath": "staticwebassets\\images\\movie\\816169f7-4720-4bc5-85d5-7a0074b179cf.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\images\\movie\\885d3144-1fb7-4777-8339-261b3bba9e14.png",
+      "PackagePath": "staticwebassets\\images\\movie\\885d3144-1fb7-4777-8339-261b3bba9e14.png"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\images\\movie\\9bec3a99-7afd-41a8-9e95-3bb2df1d7bb1.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\9bec3a99-7afd-41a8-9e95-3bb2df1d7bb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\images\\movie\\9d5a39bf-bf06-4a4b-8284-663634aed0fa.jpeg",
+      "PackagePath": "staticwebassets\\images\\movie\\9d5a39bf-bf06-4a4b-8284-663634aed0fa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\images\\movie\\cf0fe15c-1231-4bbf-ab0a-085d885a6ed2.jpeg",
+      "PackagePath": "staticwebassets\\images\\movie\\cf0fe15c-1231-4bbf-ab0a-085d885a6ed2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\images\\movie\\d3f173ac-60c4-4461-87f6-b86e0213dfa5.jpeg",
+      "PackagePath": "staticwebassets\\images\\movie\\d3f173ac-60c4-4461-87f6-b86e0213dfa5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\images\\movie\\f2f6cde6-041e-49b0-9226-9d09c9d7e5a6.jpeg",
+      "PackagePath": "staticwebassets\\images\\movie\\f2f6cde6-041e-49b0-9226-9d09c9d7e5a6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\js\\movies.js",
+      "PackagePath": "staticwebassets\\js\\movies.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\seed_images\\barbie.jpg",
+      "PackagePath": "staticwebassets\\seed_images\\barbie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\seed_images\\fax_x.jpg",
+      "PackagePath": "staticwebassets\\seed_images\\fax_x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\seed_images\\indiana_jones.jpg",
+      "PackagePath": "staticwebassets\\seed_images\\indiana_jones.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\seed_images\\john_wick.jpg",
+      "PackagePath": "staticwebassets\\seed_images\\john_wick.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\seed_images\\oppenheimer.jpg",
+      "PackagePath": "staticwebassets\\seed_images\\oppenheimer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\icick\\OneDrive\\Desktop\\TicketApplication-master\\TicketApplication\\wwwroot\\seed_images\\spider_man.jpg",
+      "PackagePath": "staticwebassets\\seed_images\\spider_man.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TicketApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TicketApplication.props",
+      "PackagePath": "build\\TicketApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TicketApplication.props",
+      "PackagePath": "buildMultiTargeting\\TicketApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TicketApplication.props",
+      "PackagePath": "buildTransitive\\TicketApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

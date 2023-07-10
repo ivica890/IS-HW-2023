@@ -1,0 +1,12 @@
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Models\bin\Debug\net7.0\TicketApplication.Models.deps.json
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Models\bin\Debug\net7.0\TicketApplication.Models.dll
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Models\bin\Debug\net7.0\TicketApplication.Models.pdb
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Models\obj\Debug\net7.0\TicketApplication.Models.csproj.AssemblyReference.cache
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Models\obj\Debug\net7.0\TicketApplication.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Models\obj\Debug\net7.0\TicketApplication.Models.AssemblyInfoInputs.cache
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Models\obj\Debug\net7.0\TicketApplication.Models.AssemblyInfo.cs
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Models\obj\Debug\net7.0\TicketApplication.Models.csproj.CoreCompileInputs.cache
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Models\obj\Debug\net7.0\TicketApplication.Models.dll
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Models\obj\Debug\net7.0\refint\TicketApplication.Models.dll
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Models\obj\Debug\net7.0\TicketApplication.Models.pdb
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Models\obj\Debug\net7.0\ref\TicketApplication.Models.dll

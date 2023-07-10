@@ -1,0 +1,43 @@
+﻿@using TicketApplication.Models.Models;
+@model List<Order>
+
+
+<div class="container">
+
+    @if(Model.Count == 0)
+    {
+        <h2>No orders have been made yet!</h2>
+    }
+    else{
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2>All orders completed for: @Model[0].applicationUser.UserName</h2>
+        </div>
+
+    </div>
+
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Ordered by</th>
+                <th>Order date</th>
+                <th>Total price of order</th>
+
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var obj in Model)
+            {
+                <tr>
+                    <td>@obj.applicationUser.NormalizedEmail</td>
+                    <td>@obj.orderDate</td>
+                    <td>@obj.totalSum</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    }
+</div>

@@ -1,0 +1,15 @@
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\bin\Debug\net7.0\TicketApplication.Utility.deps.json
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\bin\Debug\net7.0\TicketApplication.Utility.dll
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\bin\Debug\net7.0\TicketApplication.Utility.pdb
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\bin\Debug\net7.0\TicketApplication.Models.dll
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\bin\Debug\net7.0\TicketApplication.Models.pdb
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\obj\Debug\net7.0\TicketApplication.Utility.csproj.AssemblyReference.cache
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\obj\Debug\net7.0\TicketApplication.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\obj\Debug\net7.0\TicketApplication.Utility.AssemblyInfoInputs.cache
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\obj\Debug\net7.0\TicketApplication.Utility.AssemblyInfo.cs
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\obj\Debug\net7.0\TicketApplication.Utility.csproj.CoreCompileInputs.cache
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\obj\Debug\net7.0\TicketApplication.Utility.csproj.CopyComplete
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\obj\Debug\net7.0\TicketApplication.Utility.dll
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\obj\Debug\net7.0\refint\TicketApplication.Utility.dll
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\obj\Debug\net7.0\TicketApplication.Utility.pdb
+C:\Users\icick\OneDrive\Desktop\TicketApplication-master\TicketApplication.Utility\obj\Debug\net7.0\ref\TicketApplication.Utility.dll

@@ -1,0 +1,52 @@
+﻿@using TicketApplication.Models.Models;
+@model ShoppingCart
+
+
+<div class="container">
+
+    @if (Model == null)
+    {
+        <h2>The shopping cart is empty</h2>    
+    
+    }
+    else
+    {
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2>Shopping cart for: @Model.User.UserName</h2>
+        </div>
+
+    </div>
+
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Movie Name</th>
+                <th>Number of tickets</th>
+                <th>Ticket price</th>
+                <th></th>
+            </tr>
+        </thead>
+        
+        <tbody>
+            @foreach (var obj in Model.showingsInShoppingCarts)
+            {
+                <tr>
+                    <td>@obj.MovieShowing.Movie.Name</td>
+                    <td>@obj.Quantity</td>
+                    <td>@obj.MovieShowing.Movie.TicketPrice</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="row">
+        <div class="col-4">
+            <a asp-controller="Order" asp-action="Confirm"> <button class="btn btn-outline-success">Confirm order</button></a>
+        </div>
+        <div class="col-6 justify-content-end">
+        <h2>Total sum of shopping cart: @Model.totalSum</h2>
+        </div>
+    </div>
+    }
+</div>

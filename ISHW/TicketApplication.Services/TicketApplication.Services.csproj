@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TicketApplication.Data\TicketApplication.Data.csproj" />
+    <ProjectReference Include="..\TicketApplication.Models\TicketApplication.Models.csproj" />
+  </ItemGroup>
+
+</Project>
